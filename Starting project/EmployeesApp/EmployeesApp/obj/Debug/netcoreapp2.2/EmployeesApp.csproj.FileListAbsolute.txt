@@ -1,0 +1,93 @@
+E:\GitHub_Repo\private\testing-mvc-apps\EmployeesApp\EmployeesApp\bin\Debug\netcoreapp2.2\EmployeesApp.deps.json
+E:\GitHub_Repo\private\testing-mvc-apps\EmployeesApp\EmployeesApp\bin\Debug\netcoreapp2.2\EmployeesApp.runtimeconfig.json
+E:\GitHub_Repo\private\testing-mvc-apps\EmployeesApp\EmployeesApp\bin\Debug\netcoreapp2.2\EmployeesApp.runtimeconfig.dev.json
+E:\GitHub_Repo\private\testing-mvc-apps\EmployeesApp\EmployeesApp\bin\Debug\netcoreapp2.2\EmployeesApp.dll
+E:\GitHub_Repo\private\testing-mvc-apps\EmployeesApp\EmployeesApp\bin\Debug\netcoreapp2.2\EmployeesApp.pdb
+E:\GitHub_Repo\private\testing-mvc-apps\EmployeesApp\EmployeesApp\bin\Debug\netcoreapp2.2\EmployeesApp.Views.dll
+E:\GitHub_Repo\private\testing-mvc-apps\EmployeesApp\EmployeesApp\bin\Debug\netcoreapp2.2\EmployeesApp.Views.pdb
+E:\GitHub_Repo\private\testing-mvc-apps\EmployeesApp\EmployeesApp\obj\Debug\netcoreapp2.2\EmployeesApp.csprojAssemblyReference.cache
+E:\GitHub_Repo\private\testing-mvc-apps\EmployeesApp\EmployeesApp\obj\Debug\netcoreapp2.2\EmployeesApp.csproj.CoreCompileInputs.cache
+E:\GitHub_Repo\private\testing-mvc-apps\EmployeesApp\EmployeesApp\obj\Debug\netcoreapp2.2\EmployeesApp.RazorAssemblyInfo.cache
+E:\GitHub_Repo\private\testing-mvc-apps\EmployeesApp\EmployeesApp\obj\Debug\netcoreapp2.2\EmployeesApp.RazorAssemblyInfo.cs
+E:\GitHub_Repo\private\testing-mvc-apps\EmployeesApp\EmployeesApp\obj\Debug\netcoreapp2.2\EmployeesApp.AssemblyInfoInputs.cache
+E:\GitHub_Repo\private\testing-mvc-apps\EmployeesApp\EmployeesApp\obj\Debug\netcoreapp2.2\EmployeesApp.AssemblyInfo.cs
+E:\GitHub_Repo\private\testing-mvc-apps\EmployeesApp\EmployeesApp\obj\Debug\netcoreapp2.2\EmployeesApp.TagHelpers.input.cache
+E:\GitHub_Repo\private\testing-mvc-apps\EmployeesApp\EmployeesApp\obj\Debug\netcoreapp2.2\EmployeesApp.TagHelpers.output.cache
+E:\GitHub_Repo\private\testing-mvc-apps\EmployeesApp\EmployeesApp\obj\Debug\netcoreapp2.2\EmployeesApp.RazorCoreGenerate.cache
+E:\GitHub_Repo\private\testing-mvc-apps\EmployeesApp\EmployeesApp\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+E:\GitHub_Repo\private\testing-mvc-apps\EmployeesApp\EmployeesApp\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+E:\GitHub_Repo\private\testing-mvc-apps\EmployeesApp\EmployeesApp\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+E:\GitHub_Repo\private\testing-mvc-apps\EmployeesApp\EmployeesApp\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+E:\GitHub_Repo\private\testing-mvc-apps\EmployeesApp\EmployeesApp\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+E:\GitHub_Repo\private\testing-mvc-apps\EmployeesApp\EmployeesApp\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+E:\GitHub_Repo\private\testing-mvc-apps\EmployeesApp\EmployeesApp\obj\Debug\netcoreapp2.2\EmployeesApp.RazorTargetAssemblyInfo.cache
+E:\GitHub_Repo\private\testing-mvc-apps\EmployeesApp\EmployeesApp\obj\Debug\netcoreapp2.2\EmployeesApp.RazorTargetAssemblyInfo.cs
+E:\GitHub_Repo\private\testing-mvc-apps\EmployeesApp\EmployeesApp\obj\Debug\netcoreapp2.2\EmployeesApp.Views.pdb
+E:\GitHub_Repo\private\testing-mvc-apps\EmployeesApp\EmployeesApp\obj\Debug\netcoreapp2.2\EmployeesApp.dll
+E:\GitHub_Repo\private\testing-mvc-apps\EmployeesApp\EmployeesApp\obj\Debug\netcoreapp2.2\EmployeesApp.pdb
+E:\GitHub_Repo\private\testing-mvc-apps\EmployeesApp\EmployeesApp\obj\Debug\netcoreapp2.2\EmployeesApp.csproj.CopyComplete
+E:\GitHub_Repo\private\testing-mvc-apps\EmployeesApp\EmployeesApp\obj\Debug\netcoreapp2.2\Razor\Views\Employees\Index.g.cshtml.cs
+E:\GitHub_Repo\private\testing-mvc-apps\StartingProject\EmployeesApp\EmployeesApp\bin\Debug\netcoreapp2.2\EmployeesApp.deps.json
+E:\GitHub_Repo\private\testing-mvc-apps\StartingProject\EmployeesApp\EmployeesApp\bin\Debug\netcoreapp2.2\EmployeesApp.runtimeconfig.json
+E:\GitHub_Repo\private\testing-mvc-apps\StartingProject\EmployeesApp\EmployeesApp\bin\Debug\netcoreapp2.2\EmployeesApp.runtimeconfig.dev.json
+E:\GitHub_Repo\private\testing-mvc-apps\StartingProject\EmployeesApp\EmployeesApp\bin\Debug\netcoreapp2.2\EmployeesApp.dll
+E:\GitHub_Repo\private\testing-mvc-apps\StartingProject\EmployeesApp\EmployeesApp\bin\Debug\netcoreapp2.2\EmployeesApp.pdb
+E:\GitHub_Repo\private\testing-mvc-apps\StartingProject\EmployeesApp\EmployeesApp\bin\Debug\netcoreapp2.2\EmployeesApp.Views.dll
+E:\GitHub_Repo\private\testing-mvc-apps\StartingProject\EmployeesApp\EmployeesApp\bin\Debug\netcoreapp2.2\EmployeesApp.Views.pdb
+E:\GitHub_Repo\private\testing-mvc-apps\StartingProject\EmployeesApp\EmployeesApp\obj\Debug\netcoreapp2.2\EmployeesApp.csprojAssemblyReference.cache
+E:\GitHub_Repo\private\testing-mvc-apps\StartingProject\EmployeesApp\EmployeesApp\obj\Debug\netcoreapp2.2\EmployeesApp.csproj.CoreCompileInputs.cache
+E:\GitHub_Repo\private\testing-mvc-apps\StartingProject\EmployeesApp\EmployeesApp\obj\Debug\netcoreapp2.2\EmployeesApp.RazorAssemblyInfo.cache
+E:\GitHub_Repo\private\testing-mvc-apps\StartingProject\EmployeesApp\EmployeesApp\obj\Debug\netcoreapp2.2\EmployeesApp.RazorAssemblyInfo.cs
+E:\GitHub_Repo\private\testing-mvc-apps\StartingProject\EmployeesApp\EmployeesApp\obj\Debug\netcoreapp2.2\EmployeesApp.AssemblyInfoInputs.cache
+E:\GitHub_Repo\private\testing-mvc-apps\StartingProject\EmployeesApp\EmployeesApp\obj\Debug\netcoreapp2.2\EmployeesApp.AssemblyInfo.cs
+E:\GitHub_Repo\private\testing-mvc-apps\StartingProject\EmployeesApp\EmployeesApp\obj\Debug\netcoreapp2.2\EmployeesApp.TagHelpers.input.cache
+E:\GitHub_Repo\private\testing-mvc-apps\StartingProject\EmployeesApp\EmployeesApp\obj\Debug\netcoreapp2.2\EmployeesApp.TagHelpers.output.cache
+E:\GitHub_Repo\private\testing-mvc-apps\StartingProject\EmployeesApp\EmployeesApp\obj\Debug\netcoreapp2.2\EmployeesApp.RazorCoreGenerate.cache
+E:\GitHub_Repo\private\testing-mvc-apps\StartingProject\EmployeesApp\EmployeesApp\obj\Debug\netcoreapp2.2\Razor\Views\Employees\Index.g.cshtml.cs
+E:\GitHub_Repo\private\testing-mvc-apps\StartingProject\EmployeesApp\EmployeesApp\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+E:\GitHub_Repo\private\testing-mvc-apps\StartingProject\EmployeesApp\EmployeesApp\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+E:\GitHub_Repo\private\testing-mvc-apps\StartingProject\EmployeesApp\EmployeesApp\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+E:\GitHub_Repo\private\testing-mvc-apps\StartingProject\EmployeesApp\EmployeesApp\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+E:\GitHub_Repo\private\testing-mvc-apps\StartingProject\EmployeesApp\EmployeesApp\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+E:\GitHub_Repo\private\testing-mvc-apps\StartingProject\EmployeesApp\EmployeesApp\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+E:\GitHub_Repo\private\testing-mvc-apps\StartingProject\EmployeesApp\EmployeesApp\obj\Debug\netcoreapp2.2\EmployeesApp.RazorTargetAssemblyInfo.cache
+E:\GitHub_Repo\private\testing-mvc-apps\StartingProject\EmployeesApp\EmployeesApp\obj\Debug\netcoreapp2.2\EmployeesApp.RazorTargetAssemblyInfo.cs
+E:\GitHub_Repo\private\testing-mvc-apps\StartingProject\EmployeesApp\EmployeesApp\obj\Debug\netcoreapp2.2\EmployeesApp.Views.pdb
+E:\GitHub_Repo\private\testing-mvc-apps\StartingProject\EmployeesApp\EmployeesApp\obj\Debug\netcoreapp2.2\EmployeesApp.dll
+E:\GitHub_Repo\private\testing-mvc-apps\StartingProject\EmployeesApp\EmployeesApp\obj\Debug\netcoreapp2.2\EmployeesApp.pdb
+E:\GitHub_Repo\private\testing-mvc-apps\StartingProject\EmployeesApp\EmployeesApp\obj\Debug\netcoreapp2.2\EmployeesApp.csproj.CopyComplete
+E:\GitHub_Repo\private\testing-mvc-apps\StartingProject\EmployeesApp\EmployeesApp\obj\Debug\netcoreapp2.2\Razor\Views\Employees\Create.g.cshtml.cs
+E:\GitHub_Repo\private\data-protection-using-dataprotector\Starting project\EmployeesApp\EmployeesApp\bin\Debug\netcoreapp2.2\appsettings.Development.json
+E:\GitHub_Repo\private\data-protection-using-dataprotector\Starting project\EmployeesApp\EmployeesApp\bin\Debug\netcoreapp2.2\appsettings.json
+E:\GitHub_Repo\private\data-protection-using-dataprotector\Starting project\EmployeesApp\EmployeesApp\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+E:\GitHub_Repo\private\data-protection-using-dataprotector\Starting project\EmployeesApp\EmployeesApp\bin\Debug\netcoreapp2.2\EmployeesApp.deps.json
+E:\GitHub_Repo\private\data-protection-using-dataprotector\Starting project\EmployeesApp\EmployeesApp\bin\Debug\netcoreapp2.2\EmployeesApp.runtimeconfig.json
+E:\GitHub_Repo\private\data-protection-using-dataprotector\Starting project\EmployeesApp\EmployeesApp\bin\Debug\netcoreapp2.2\EmployeesApp.runtimeconfig.dev.json
+E:\GitHub_Repo\private\data-protection-using-dataprotector\Starting project\EmployeesApp\EmployeesApp\bin\Debug\netcoreapp2.2\EmployeesApp.dll
+E:\GitHub_Repo\private\data-protection-using-dataprotector\Starting project\EmployeesApp\EmployeesApp\bin\Debug\netcoreapp2.2\EmployeesApp.pdb
+E:\GitHub_Repo\private\data-protection-using-dataprotector\Starting project\EmployeesApp\EmployeesApp\bin\Debug\netcoreapp2.2\EmployeesApp.Views.dll
+E:\GitHub_Repo\private\data-protection-using-dataprotector\Starting project\EmployeesApp\EmployeesApp\bin\Debug\netcoreapp2.2\EmployeesApp.Views.pdb
+E:\GitHub_Repo\private\data-protection-using-dataprotector\Starting project\EmployeesApp\EmployeesApp\obj\Debug\netcoreapp2.2\EmployeesApp.csprojAssemblyReference.cache
+E:\GitHub_Repo\private\data-protection-using-dataprotector\Starting project\EmployeesApp\EmployeesApp\obj\Debug\netcoreapp2.2\EmployeesApp.csproj.CoreCompileInputs.cache
+E:\GitHub_Repo\private\data-protection-using-dataprotector\Starting project\EmployeesApp\EmployeesApp\obj\Debug\netcoreapp2.2\EmployeesApp.RazorAssemblyInfo.cache
+E:\GitHub_Repo\private\data-protection-using-dataprotector\Starting project\EmployeesApp\EmployeesApp\obj\Debug\netcoreapp2.2\EmployeesApp.RazorAssemblyInfo.cs
+E:\GitHub_Repo\private\data-protection-using-dataprotector\Starting project\EmployeesApp\EmployeesApp\obj\Debug\netcoreapp2.2\EmployeesApp.AssemblyInfoInputs.cache
+E:\GitHub_Repo\private\data-protection-using-dataprotector\Starting project\EmployeesApp\EmployeesApp\obj\Debug\netcoreapp2.2\EmployeesApp.AssemblyInfo.cs
+E:\GitHub_Repo\private\data-protection-using-dataprotector\Starting project\EmployeesApp\EmployeesApp\obj\Debug\netcoreapp2.2\EmployeesApp.TagHelpers.input.cache
+E:\GitHub_Repo\private\data-protection-using-dataprotector\Starting project\EmployeesApp\EmployeesApp\obj\Debug\netcoreapp2.2\EmployeesApp.TagHelpers.output.cache
+E:\GitHub_Repo\private\data-protection-using-dataprotector\Starting project\EmployeesApp\EmployeesApp\obj\Debug\netcoreapp2.2\EmployeesApp.RazorCoreGenerate.cache
+E:\GitHub_Repo\private\data-protection-using-dataprotector\Starting project\EmployeesApp\EmployeesApp\obj\Debug\netcoreapp2.2\Razor\Views\Employees\Create.cshtml.g.cs
+E:\GitHub_Repo\private\data-protection-using-dataprotector\Starting project\EmployeesApp\EmployeesApp\obj\Debug\netcoreapp2.2\Razor\Views\Employees\Index.cshtml.g.cs
+E:\GitHub_Repo\private\data-protection-using-dataprotector\Starting project\EmployeesApp\EmployeesApp\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.cshtml.g.cs
+E:\GitHub_Repo\private\data-protection-using-dataprotector\Starting project\EmployeesApp\EmployeesApp\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+E:\GitHub_Repo\private\data-protection-using-dataprotector\Starting project\EmployeesApp\EmployeesApp\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\GitHub_Repo\private\data-protection-using-dataprotector\Starting project\EmployeesApp\EmployeesApp\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\GitHub_Repo\private\data-protection-using-dataprotector\Starting project\EmployeesApp\EmployeesApp\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.cshtml.g.cs
+E:\GitHub_Repo\private\data-protection-using-dataprotector\Starting project\EmployeesApp\EmployeesApp\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.cshtml.g.cs
+E:\GitHub_Repo\private\data-protection-using-dataprotector\Starting project\EmployeesApp\EmployeesApp\obj\Debug\netcoreapp2.2\EmployeesApp.RazorTargetAssemblyInfo.cache
+E:\GitHub_Repo\private\data-protection-using-dataprotector\Starting project\EmployeesApp\EmployeesApp\obj\Debug\netcoreapp2.2\EmployeesApp.RazorTargetAssemblyInfo.cs
+E:\GitHub_Repo\private\data-protection-using-dataprotector\Starting project\EmployeesApp\EmployeesApp\obj\Debug\netcoreapp2.2\EmployeesApp.Views.pdb
+E:\GitHub_Repo\private\data-protection-using-dataprotector\Starting project\EmployeesApp\EmployeesApp\obj\Debug\netcoreapp2.2\EmployeesApp.dll
+E:\GitHub_Repo\private\data-protection-using-dataprotector\Starting project\EmployeesApp\EmployeesApp\obj\Debug\netcoreapp2.2\EmployeesApp.pdb
+E:\GitHub_Repo\private\data-protection-using-dataprotector\Starting project\EmployeesApp\EmployeesApp\obj\Debug\netcoreapp2.2\EmployeesApp.csproj.CopyComplete
+E:\GitHub_Repo\private\data-protection-using-dataprotector\Starting project\EmployeesApp\EmployeesApp\obj\Debug\netcoreapp2.2\Razor\Views\Employees\Details.cshtml.g.cs
